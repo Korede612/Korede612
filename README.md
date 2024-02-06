@@ -28,6 +28,7 @@ I am well-versed in GraphQL for both front-end and back-end development. Leverag
 ## 📫 Reach me via:
 - Email: okoosikorede@gmail.com
 - LinkedIn: www.linkedin.com/in/korede-oko-osi-software-engineer
+- Other GitHub Acct: https://github.com/Master-K-88
 ## ⚡ Fun fact:
 - **Passionate Problem Solver:** I thrive on the thrill of unraveling complex puzzles and turning challenges into opportunities. Whether it's debugging a tricky piece of code or finding innovative solutions, my love for problem-solving fuels my commitment to delivering top-notch results.
 
